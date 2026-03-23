@@ -2,7 +2,7 @@
 ---
 ### About me
   - 🏠 Switzerland
-  - 🎂 19 y/o
+  - 🎂 20 y/o
 ---
 
 ### Current projects:
